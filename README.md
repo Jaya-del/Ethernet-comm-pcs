@@ -159,7 +159,3 @@ This project is a **practical demo of distributed applications** where multiple 
 - Python Official Docs – `socket` & `tkinter`  
 - GeeksforGeeks / RealPython – Socket Programming Tutorials  
 - Pillow (PIL fork) for image processing  
-
-Would you like me to also create a **shorter student-style README** (1-page, very concise) suitable for attaching directly to project submission, in addition to this detailed one?
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/88609624/266b993a-c68d-4496-8e92-43391faa3cf9/Project-on-Ethernet-Communication-Between-two-PCs-1.pdf
