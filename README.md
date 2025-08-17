@@ -1,5 +1,3 @@
-Got it ✅. I’ll draft a **professional README** for your project based on the details in the uploaded PDF. It will summarize the purpose, features, architecture, installation steps, usage, and protocols in a structured way so that anyone can understand and run the project.  
-
 ***
 
 # Ethernet Communication Between Two PCs – Timer Synchronization  
